@@ -65,7 +65,7 @@ def train(args):
         pre_docs = merge_preds4ner(testset, testprocessor, preds)
         source_docs = testset.docs
 
-        f1, prediction, recall = f1_score4ner(pre_docs, source_docs, 'all')
+        f1, prediction, recall, _ = f1_score4ner(pre_docs, source_docs, 'all')
         logger.info("【严格相交】F1:%.4f  P:%.4f  R:%.4f", f1, prediction, recall)
 
 
