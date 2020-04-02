@@ -1,0 +1,8 @@
+scikit-learn==0.21.3
+tensorflow-gpu==1.14.0
+numpy==1.16.4
+gensim==3.8.1
+pandas==1.0.1
+jieba==0.39
+keras==2.3.1
+git+https://www.github.com/keras-team/keras-contrib.git
