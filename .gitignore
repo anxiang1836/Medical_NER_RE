@@ -1,4 +1,5 @@
-logs/
+*.pyc
+
 .idea/
 .ipynb_checkpoints/
 __pycache__/
@@ -6,8 +7,11 @@ model_file/
 pickle_file/
 data/round2/
 .git/
+
 saved_model_files/*.h5
 saved_model_files/*.model
 saved_model_files/*.txt
 saved_model_files/*.pkl
-*.pyc
+
+logs/*.log
+
