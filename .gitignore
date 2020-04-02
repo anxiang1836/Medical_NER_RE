@@ -3,9 +3,6 @@
 .idea/
 .ipynb_checkpoints/
 __pycache__/
-model_file/
-pickle_file/
-data/round2/
 .git/
 
 saved_model_files/*.h5
