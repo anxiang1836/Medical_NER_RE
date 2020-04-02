@@ -5,13 +5,13 @@ import numpy as np
 from preprocess import CATEGORY
 from typing import List
 
-BATCH_SIZE = 16
+BATCH_SIZE = 64
 MAX_LEN = 70
 PAD_LEN = 10
-model_dic = "test_data_model"
-word2idx = pickle.load(open('test_data_model/word2idx.pkl', 'rb'))
-emb_matrix = pickle.load(open('test_data_model/emb_matrix.pkl', 'rb'))
-model = keras.models.load_model("model_file/bi_lstm_crf_12_3_0_42.h5",
+
+word2idx = pickle.load(open('../saved_model_files/word2idx.pkl', 'rb'))
+emb_matrix = pickle.load(open('../saved_model_files/emb_matrix.pkl', 'rb'))
+model = keras.models.load_model("../saved_model_files/bi_lstm_crf_4_3_2_39.h5",
                                 custom_objects={"CRF": keras_contrib.layers.CRF,
                                                 "crf_loss": keras_contrib.losses.crf_loss,
                                                 "crf_viterbi_accuracy": keras_contrib.metrics.crf_viterbi_accuracy})
