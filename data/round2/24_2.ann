@@ -1,0 +1,415 @@
+T251	Drug 36 38;39 41	二甲 双胍
+T252	Drug 42 46	恩格列净
+T253	Drug 47 51	利拉鲁肽
+T254	Drug 52 56	二甲双胍
+T255	Disease 127 129	超重
+T256	Disease 130 132	肥胖
+T257	Drug 169 172;173 174	二甲双 胍
+T258	Drug 193 196	SUs
+T259	Drug 197 199;200 201	胰岛 素
+T260	Duration 223 227;228 229	10.7 年
+T261	Drug 243 247	二甲双胍
+T262	Disease 263 267	心肌梗死
+T263	Disease 285 294	心血管事件复合终点
+T264	Disease 295 299	心肌梗死
+T265	Disease 300 302	猝死
+T266	Disease 303 304;305 307	心 绞痛
+T267	Disease 308 310	卒中
+T268	Disease 311 317	周围血管疾病
+T269	Drug 336 340	二甲双胍
+T270	Disease 362 367	心血管事件
+T272	Drug 404 408	二甲双胍
+T273	Disease 431 432;433 436	心 肌梗死
+T274	Drug 459 468	SGLT-2抑制剂
+T275	Drug 468 472	恩格列净
+T276	Drug 514 518	恩格列净
+T277	Disease 518 525	心血管事件结局
+T278	Duration 581 585	3.1年
+T279	Drug 608 610;611 613	恩格 列净
+T280	Disease 624 631	心血管不良事件
+T281	Disease 636 640	MACE
+T282	Disease 643 648	心血管死亡
+T283	Disease 649 657	非致死性心肌梗死
+T284	Disease 659 665	非致死性卒中
+T285	Disease 682 685;686 688	心血管 死亡
+T286	Disease 705 709	心力衰竭
+T287	Drug 728 738	GLP-1受体激动剂
+T288	Drug 738 742	利拉鲁肽
+T289	Drug 780 784	利拉鲁肽
+T290	Disease 824 827;828 830	心血管 疾病
+T291	Disease 868 872	心肌梗死
+T292	Disease 873 875	卒中
+T293	Disease 876 877;878 885	短 暂性脑缺血发作
+T294	Operation 888 893	血运重建术
+T295	Anatomy 894 898	冠状动脉
+T296	Anatomy 899 901;902 903	颈动 脉
+T297	Anatomy 904 908	下肢动脉
+T298	Level 908 914	狭窄≥50%
+T299	Duration 923 926;927 928	3.8 年
+T300	Drug 951 955	利拉鲁肽
+T301	Disease 961 965	MACE
+T302	Disease 983 988	心血管死亡
+T303	Disease 1009 1018	心血管事件复合终点
+T304	Disease 1019 1024	心血管死亡
+T305	Disease 1025 1030;1031 1034	非致死性心 肌梗死
+T306	Disease 1035 1041	非致死性卒中
+T307	Operation 1042 1046	血运重建
+T308	Disease 1047 1054	不稳定性心绞痛
+T309	Disease 1058 1062	心力衰竭
+T310	Disease 1087 1091	心力衰竭
+T311	Drug 1155 1159	恩格列净
+T312	Drug 1160 1164	利拉鲁肽
+T313	Anatomy 1165 1168	心血管
+T314	Disease 1189 1194	ASCVD
+T315	Anatomy 1219 1222	心血管
+T316	Drug 1266 1270	罗格列酮
+T317	Drug 1271 1275	吡格列酮
+T318	Drug 1276 1280;1281 1282	甘精胰岛 素
+T319	Drug 1283 1287	西格列汀
+T320	Drug 1288 1292	沙格列汀
+T321	Drug 1293 1297	阿格列汀
+T322	Drug 1298 1302	利司那肽
+T323	Drug 1306 1310	罗格列酮
+T324	Disease 1311 1314	糖尿病
+T325	Drug 1364 1368	二甲双胍
+T326	Drug 1369 1371	SU
+T327	Drug 1408 1412	罗格列酮
+T328	Drug 1425 1428	SUs
+T329	Drug 1429 1432	双胍类
+T330	Duration 1440 1444	5.5年
+T331	Drug 1452 1456	二甲双胍
+T332	Drug 1458 1461	SUs
+T333	Drug 1467 1471	罗格列酮
+T334	Drug 1473 1474;1475 1478	二 甲双胍
+T335	Drug 1479 1482	SUs
+T336	Disease 1486 1493	心血管终点事件
+T337	Disease 1546 1550	心力衰竭
+T338	Drug 1591 1595	吡格列酮
+T339	Anatomy 1596 1599	大血管
+T340	Drug 1673 1677	吡格列酮
+T341	Anatomy 1678 1681	心血管
+T342	Disease 1657 1662	心血管疾病
+T343	Drug 1699 1703	吡格列酮
+T344	Duration 1718 1724	34.5个月
+T345	Drug 1738 1740;1741 1743	吡格 列酮
+T346	Disease 1759 1764;1765 1768	非致死性心 肌梗死
+T347	Disease 1769 1771	卒中
+T348	Disease 1772 1775	ACS
+T349	Anatomy 1776 1780	冠状动脉
+T350	Anatomy 1781 1785	下肢动脉
+T351	Operation 1786 1789;1790 1791	血运重 建
+T352	Anatomy 1792 1795	踝关节
+T353	Operation 1798 1802	下肢截肢
+T354	Disease 1859 1867	非致死性心肌梗死
+T355	Disease 1868 1870	卒中
+T356	Duration 1910 1914	7.8年
+T357	Drug 1953 1958	甘精胰岛素
+T358	Disease 2014 2017	IFG
+T359	Disease 2018 2021	IGT
+T360	Drug 2034 2039	甘精胰岛素
+T361	Duration 2052 2056	6.2年
+T362	Drug 2072 2077	甘精胰岛素
+T363	Disease 2084 2088	MACE
+T364	Drug 2133 2149	二肽基肽酶4(DPP-4)抑制剂
+T365	Drug 2176 2182;2183 2185	DPP-4抑 制剂
+T366	Drug 2213 2217	西格列汀
+T367	Duration 2267 2269	3年
+T368	Drug 2295 2299	西格列汀
+T369	Disease 2302 2307;2308 2312	心血管事件 复合终点
+T370	Disease 2316 2320	MACE
+T371	Disease 2321 2328	不稳定型心绞痛
+T372	Disease 2372 2376	心力衰竭
+T373	Drug 2383 2387	沙格列汀
+T374	Disease 2389 2392	糖尿病
+T375	Duration 2461 2465	2.1年
+T376	Drug 2492 2496	沙格列汀
+T377	Disease 2501 2505	MACE
+T378	Disease 2542 2546	心力衰竭
+T379	Drug 2568 2572	阿格列汀
+T380	Disease 2585 2588	ACS
+T381	Duration 2623 2629	15~90d
+T382	Disease 2634 2637	ACS
+T383	Drug 2647 2651	阿格列汀
+T384	Duration 2667 2671	18个月
+T385	Drug 2697 2701	阿格列汀
+T386	Disease 2706 2710	MACE
+T387	Drug 2745 2749	利司那肽
+T388	Disease 2757 2760	ACS
+T389	Duration 2816 2820	180d
+T390	Disease 2825 2828	ACS
+T391	Duration 2845 2847;2848 2849	5个 月
+T392	Drug 2875 2879	利司那肽
+T393	Disease 2882 2891	心血管事件复合终点
+T394	Disease 2896 2900	MACE
+T395	Disease 2901 2908	不稳定性心绞痛
+T396	Disease 2952 2956	心力衰竭
+T397	Drug 2971 2975	罗格列酮
+T398	Drug 2976 2980	吡格列酮
+T399	Drug 2981 2983;2984 2987	甘精 胰岛素
+T400	Drug 2988 2992	西格列汀
+T401	Drug 2993 2997	沙格列汀
+T402	Drug 2998 3002	阿格列汀
+T403	Drug 3003 3007	利司那肽
+T404	Drug 3167 3170	SUs
+T405	Drug 3171 3175	格列奈类
+T406	Drug 3176 3177;3178 3181	维 格列汀
+T407	Drug 3185 3190	胰岛素制剂
+T408	Drug 3228 3231	SUs
+T409	Disease 3252 3256	心肌梗死
+T410	Disease 3257 3259	卒中
+T411	Drug 3264 3268	那格列奈
+T412	Drug 3269 3272	缬沙坦
+T413	Disease 3273 3276	IGT
+T414	Disease 3323 3326	IGT
+T415	Drug 3338 3339;3340 3342	格 列奈
+T416	Disease 3350 3359	心血管事件复合终点
+T417	Disease 3364 3368	MACE
+T418	Disease 3369 3373	心力衰竭
+T419	Drug 3455 3459	维格列汀
+T420	Amount 3480 3486	50mg/d
+T421	Amount 3515 3522	100mg/d
+T422	Disease 3582 3588	急性心肌梗死
+T423	Drug 3600 3603	胰岛素
+T424	Method 3598 3600	餐时
+T425	Drug 3605 3610	基础胰岛素
+T426	Duration 3612 3616	2.7年
+T427	Disease 3620 3628;3629 3630	心血管事件复合终 点
+T428	Disease 3635 3639	MACE
+T429	Anatomy 3640 3644	冠状动脉
+T430	Operation 3644 3648	血运重建
+T431	Disease 3649 3652	ACS
+T432	Drug 3714 3719	基础胰岛素
+T433	Method 3723 3725	餐时
+T434	Drug 3725 3728	胰岛素
+T437	Drug 3821 3824;3825 3826	阿卡波 糖
+T438	Drug 3827 3831	利格列汀
+T439	Drug 3832 3841	艾塞那肽(周制剂)
+T440	Drug 3842 3846	度拉唐肽
+T441	Drug 3847 3850;3851 3852	阿必鲁 肽
+T442	Drug 3853 3857	达格列净
+T443	Drug 3858 3862	坎格列净
+T444	Drug 3863 3868	德谷胰岛素
+T445	Disease 3919 3924	心血管事件
+T446	Disease 4018 4023	ASCVD
+T447	Drug 4088 4092	二甲双胍
+T448	Drug 4135 4139	二甲双胍
+T449	Duration 4224 4227	3个月
+T450	Disease 4285 4290	ASCVD
+T451	Drug 4319 4323	利拉鲁肽
+T452	Drug 4324 4326;4327 4329	恩格 列净
+T453	Duration 4367 4370	3个月
+T454	Drug 4400 4403	胰岛素
+T785	Disease 57 61	T2DM
+T786	Disease 136 140	T2DM
+T787	Disease 567 571	T2DM
+T788	Disease 839 843	T2DM
+T789	Disease 1183 1187	T2DM
+T790	Disease 1236 1240	T2DM
+T791	Disease 1384 1388	T2DM
+T792	Disease 1663 1667	T2DM
+T793	Disease 2022 2026	T2DM
+T794	Disease 2206 2210	T2DM
+T795	Disease 2252 2256	T2DM
+T796	Disease 2447 2451	T2DM
+T797	Disease 2579 2583	T2DM
+T798	Disease 2638 2642	T2DM
+T799	Disease 2751 2755	T2DM
+T800	Disease 2829 2833	T2DM
+T801	Disease 3055 3059	T2DM
+T802	Disease 3234 3238	T2DM
+T803	Disease 3462 3466	T2DM
+T804	Disease 3552 3556	T2DM
+T805	Disease 3590 3594	T2DM
+T806	Disease 3954 3958	T2DM
+T807	Disease 4024 4028	T2DM
+T808	Disease 4094 4098	T2DM
+T809	Disease 4146 4150	T2DM
+T810	Disease 4279 4283	T2DM
+T877	Disease 560 561;562 566	心 血管疾病
+T878	Disease 1494 1498;1499 1500	心血管疾 病
+T879	Disease 2432 2437	心血管疾病
+T917	Test 1322 1324	血糖
+T918	Test 1376 1378	血糖
+T919	Test 3898 3900	血糖
+T920	Test 3998 4000	血糖
+T921	Test 4230 4232	血糖
+T922	Test 4375 4376;4377 4378	血 糖
+T213	Disease 253 258	心血管事件
+T966	Disease 1503 1508	心血管死亡
+T967	Disease 1554 1556	死亡
+T968	Disease 1754 1758	全因死亡
+T969	Disease 1854 1858	全因死亡
+T970	Disease 3026 3030;3031 3032	心血管事 件
+T971	Disease 3246 3251	心血管死亡
+T972	Disease 3240 3243;3244 3245	全因死 亡
+T973	Disease 3306 3311	心血管事件
+T974	Disease 3469 3475	心脑血管事件
+T975	Disease 3731 3736	心血管事件
+T435	Disease 3909 3915	糖尿病并发症
+T436	Disease 3929 3931	死亡
+T976	Disease 4342 4347	心血管事件
+T977	Disease 4348 4350	死亡
+T271	Duration 397 400	10年
+T1	Disease 785 788	糖尿病
+T2	Disease 860 864	心血管病
+T3	Disease 2193 2198	心血管事件
+R1	Drug_Disease Arg1:T251 Arg2:T785
+R2	Drug_Disease Arg1:T252 Arg2:T785
+R3	Drug_Disease Arg1:T254 Arg2:T785
+R4	Drug_Disease Arg1:T253 Arg2:T785
+R5	Drug_Disease Arg1:T257 Arg2:T786
+R6	Drug_Disease Arg1:T258 Arg2:T786
+R7	Drug_Disease Arg1:T259 Arg2:T786
+R8	Drug_Disease Arg1:T261 Arg2:T213
+R9	Drug_Disease Arg1:T261 Arg2:T262
+R10	Drug_Disease Arg1:T269 Arg2:T270
+R11	Drug_Disease Arg1:T272 Arg2:T273
+R12	Drug_Disease Arg1:T276 Arg2:T277
+R13	Drug_Disease Arg1:T275 Arg2:T277
+R14	Drug_Disease Arg1:T274 Arg2:T277
+R15	Drug_Disease Arg1:T279 Arg2:T280
+R16	Drug_Disease Arg1:T287 Arg2:T788
+R17	Drug_Disease Arg1:T288 Arg2:T788
+R18	Drug_Disease Arg1:T289 Arg2:T1
+R19	Drug_Disease Arg1:T289 Arg2:T788
+R20	Anatomy_Disease Arg1:T295 Arg2:T2
+R21	Anatomy_Disease Arg1:T296 Arg2:T2
+R22	Anatomy_Disease Arg1:T297 Arg2:T2
+R23	Drug_Disease Arg1:T300 Arg2:T301
+R24	Drug_Disease Arg1:T311 Arg2:T789
+R25	Drug_Disease Arg1:T312 Arg2:T789
+R26	Anatomy_Disease Arg1:T313 Arg2:T314
+R27	Anatomy_Disease Arg1:T315 Arg2:T790
+R28	Drug_Disease Arg1:T316 Arg2:T324
+R29	Drug_Disease Arg1:T317 Arg2:T324
+R30	Drug_Disease Arg1:T318 Arg2:T324
+R31	Drug_Disease Arg1:T319 Arg2:T324
+R32	Drug_Disease Arg1:T320 Arg2:T324
+R33	Drug_Disease Arg1:T321 Arg2:T324
+R34	Drug_Disease Arg1:T322 Arg2:T324
+R35	Test_Disease Arg1:T917 Arg2:T324
+R36	Drug_Disease Arg1:T325 Arg2:T791
+R37	Drug_Disease Arg1:T326 Arg2:T791
+R38	Test_Disease Arg1:T918 Arg2:T791
+R39	Drug_Disease Arg1:T327 Arg2:T791
+R40	Drug_Disease Arg1:T328 Arg2:T791
+R41	Drug_Disease Arg1:T329 Arg2:T791
+R42	Drug_Disease Arg1:T331 Arg2:T791
+R43	Drug_Disease Arg1:T332 Arg2:T791
+R44	Drug_Disease Arg1:T333 Arg2:T791
+R45	Drug_Disease Arg1:T334 Arg2:T791
+R46	Drug_Disease Arg1:T335 Arg2:T791
+R47	Anatomy_Disease Arg1:T339 Arg2:T336
+R48	Drug_Disease Arg1:T338 Arg2:T336
+R49	Drug_Disease Arg1:T340 Arg2:T792
+R50	Anatomy_Disease Arg1:T341 Arg2:T342
+R51	Drug_Disease Arg1:T343 Arg2:T792
+R52	Drug_Disease Arg1:T345 Arg2:T792
+R53	Drug_Disease Arg1:T357 Arg2:T793
+R54	Drug_Disease Arg1:T357 Arg2:T359
+R55	Drug_Disease Arg1:T357 Arg2:T358
+R56	Drug_Disease Arg1:T360 Arg2:T358
+R57	Drug_Disease Arg1:T360 Arg2:T359
+R58	Drug_Disease Arg1:T360 Arg2:T793
+R59	Drug_Disease Arg1:T362 Arg2:T363
+R60	Drug_Disease Arg1:T366 Arg2:T794
+R61	Drug_Disease Arg1:T365 Arg2:T794
+R62	Drug_Disease Arg1:T364 Arg2:T794
+R63	Drug_Disease Arg1:T368 Arg2:T795
+R64	Drug_Disease Arg1:T373 Arg2:T374
+R65	Drug_Disease Arg1:T376 Arg2:T796
+R66	Drug_Disease Arg1:T379 Arg2:T797
+R67	Drug_Disease Arg1:T383 Arg2:T798
+R68	Drug_Disease Arg1:T385 Arg2:T798
+R69	Drug_Disease Arg1:T387 Arg2:T799
+R70	Drug_Disease Arg1:T392 Arg2:T800
+R71	Drug_Disease Arg1:T397 Arg2:T800
+R72	Drug_Disease Arg1:T398 Arg2:T800
+R73	Drug_Disease Arg1:T399 Arg2:T800
+R74	Drug_Disease Arg1:T400 Arg2:T800
+R75	Drug_Disease Arg1:T401 Arg2:T800
+R76	Drug_Disease Arg1:T402 Arg2:T800
+R77	Drug_Disease Arg1:T403 Arg2:T800
+R78	Drug_Disease Arg1:T404 Arg2:T801
+R79	Drug_Disease Arg1:T405 Arg2:T801
+R80	Drug_Disease Arg1:T406 Arg2:T801
+R81	Drug_Disease Arg1:T407 Arg2:T801
+R82	Drug_Disease Arg1:T408 Arg2:T802
+R83	Drug_Disease Arg1:T412 Arg2:T413
+R84	Drug_Disease Arg1:T411 Arg2:T413
+R85	Drug_Disease Arg1:T415 Arg2:T414
+R86	Drug_Disease Arg1:T419 Arg2:T803
+R87	Amount_Drug Arg1:T420 Arg2:T419
+R88	Amount_Drug Arg1:T421 Arg2:T419
+R89	Drug_Disease Arg1:T423 Arg2:T805
+R90	Method_Drug Arg1:T424 Arg2:T423
+R91	Drug_Disease Arg1:T425 Arg2:T805
+R92	Anatomy_Disease Arg1:T429 Arg2:T427
+R93	Method_Drug Arg1:T433 Arg2:T434
+R94	Drug_Disease Arg1:T434 Arg2:T805
+R95	Drug_Disease Arg1:T432 Arg2:T805
+R96	Test_Disease Arg1:T919 Arg2:T435
+R97	Test_Disease Arg1:T920 Arg2:T806
+R98	Drug_Disease Arg1:T447 Arg2:T808
+R99	Drug_Disease Arg1:T448 Arg2:T809
+R100	Test_Disease Arg1:T921 Arg2:T810
+R101	Drug_Disease Arg1:T451 Arg2:T810
+R102	Drug_Disease Arg1:T452 Arg2:T810
+R103	Test_Disease Arg1:T922 Arg2:T810
+R104	Drug_Disease Arg1:T454 Arg2:T810
+R105	Duration_Drug Arg1:T260 Arg2:T257
+R106	Drug_Disease Arg1:T261 Arg2:T786
+R107	Duration_Drug Arg1:T271 Arg2:T272
+R108	Duration_Drug Arg1:T278 Arg2:T279
+R109	Drug_Disease Arg1:T287 Arg2:T290
+R110	Drug_Disease Arg1:T288 Arg2:T290
+R111	Drug_Disease Arg1:T289 Arg2:T290
+R112	Anatomy_Disease Arg1:T295 Arg2:T301
+R113	Anatomy_Disease Arg1:T296 Arg2:T301
+R114	Anatomy_Disease Arg1:T297 Arg2:T301
+R115	Anatomy_Disease Arg1:T313 Arg2:T789
+R116	Drug_Disease Arg1:T323 Arg2:T324
+R117	Duration_Drug Arg1:T330 Arg2:T327
+R118	Drug_Disease Arg1:T331 Arg2:T336
+R119	Drug_Disease Arg1:T332 Arg2:T336
+R120	Drug_Disease Arg1:T333 Arg2:T336
+R121	Drug_Disease Arg1:T334 Arg2:T336
+R122	Drug_Disease Arg1:T335 Arg2:T336
+R123	Drug_Disease Arg1:T338 Arg2:T792
+R124	Anatomy_Disease Arg1:T339 Arg2:T792
+R125	Anatomy_Disease Arg1:T341 Arg2:T792
+R126	Duration_Drug Arg1:T344 Arg2:T343
+R127	Anatomy_Disease Arg1:T349 Arg2:T348
+R128	Anatomy_Disease Arg1:T350 Arg2:T348
+R129	Anatomy_Disease Arg1:T352 Arg2:T348
+R130	Duration_Drug Arg1:T361 Arg2:T360
+R131	Duration_Drug Arg1:T367 Arg2:T366
+R132	Drug_Disease Arg1:T368 Arg2:T369
+R133	Drug_Disease Arg1:T376 Arg2:T377
+R134	Duration_Drug Arg1:T381 Arg2:T383
+R135	Duration_Drug Arg1:T384 Arg2:T383
+R136	Drug_Disease Arg1:T385 Arg2:T386
+R137	Drug_Disease Arg1:T392 Arg2:T393
+R138	Test_Disease Arg1:T922 Arg2:T976
+R139	Test_Disease Arg1:T920 Arg2:T446
+R140	Drug_Disease Arg1:T437 Arg2:T435
+R141	Drug_Disease Arg1:T438 Arg2:T435
+R142	Drug_Disease Arg1:T439 Arg2:T435
+R143	Drug_Disease Arg1:T440 Arg2:T435
+R144	Drug_Disease Arg1:T441 Arg2:T435
+R145	Drug_Disease Arg1:T442 Arg2:T435
+R146	Drug_Disease Arg1:T443 Arg2:T435
+R147	Drug_Disease Arg1:T444 Arg2:T435
+R148	Drug_Disease Arg1:T434 Arg2:T975
+R149	Drug_Disease Arg1:T432 Arg2:T975
+R150	Anatomy_Disease Arg1:T429 Arg2:T431
+R151	Duration_Drug Arg1:T426 Arg2:T423
+R152	Duration_Drug Arg1:T426 Arg2:T425
+R153	Drug_Disease Arg1:T415 Arg2:T416
+R154	Drug_Disease Arg1:T397 Arg2:T970
+R155	Drug_Disease Arg1:T398 Arg2:T970
+R156	Drug_Disease Arg1:T399 Arg2:T970
+R157	Drug_Disease Arg1:T400 Arg2:T970
+R158	Drug_Disease Arg1:T401 Arg2:T970
+R159	Drug_Disease Arg1:T402 Arg2:T970
+R160	Drug_Disease Arg1:T403 Arg2:T970

@@ -1,0 +1,378 @@
+T1	Disease 0 8	糖尿病周围神经病
+T2	Disease 60 68	糖尿病周围神经病
+T3	Symptom 130 132;133 144	远端 对称性多发性周围神经病
+T4	Symptom 184 189	自主神经病
+T5	Disease 201 204	DPN
+T6	Disease 264 267	DPN
+T7	Symptom 279 283	肢体麻木
+T8	Symptom 284 286	疼痛
+T9	Symptom 287 291	感觉异常
+T10	Disease 292 295	DPN
+T11	Symptom 311 315	感觉异常
+T12	Symptom 337 341	感觉障碍
+T13	Symptom 353 357	肢体疼痛
+T14	Symptom 377 381	排汗异常
+T15	Symptom 382 383;384 385	腹 泻
+T16	Symptom 386 388	便秘
+T17	Symptom 389 394	性功能障碍
+T18	Symptom 419 425	肢体肌肉无力
+T19	Symptom 426 428	萎缩
+T20	Test 446 450	感觉检查
+T21	Test 520 524	运动检查
+T22	Test 556 561	腱反射检查
+T23	Test 603 611	自主神经功能检查
+T24	Test 670 674	感觉障碍
+T25	Test 675 680	腱反射检查
+T26	Reason 690 692	偏食
+T27	Reason 693 696	饮酒史
+T29	Reason 697 705	药物或毒物接触史
+T28	Reason 708 711	家族史
+T30	Symptom 759 763	感觉异常
+T31	Symptom 766 772	自主神经症状
+T32	Symptom 774 777;778 780	性功能 障碍
+T33	Symptom 781 783	便秘
+T34	Symptom 784 788	排尿困难
+T35	Disease 807 810	DPN
+T37	Disease 729 741	中枢神经系统感觉通路病变
+T38	Test 919 930	葡萄糖负荷后2 h血糖
+T36	Test 931 937	糖化血红蛋白
+T39	Disease 947 950	糖尿病
+T40	Disease 846 851	周围神经病
+T41	Test 984 987	血常规
+T42	Test 988 993	肝。肾功能
+T43	Test 994 998	肿瘤筛查
+T44	Test 999 1003	免疫指标
+T45	Test 1004 1006;1007 1011	免疫 固定电泳
+T46	Test 1012 1017	甲状腺功能
+T47	Test 1018 1020	叶酸
+T48	Test 1021 1025	维生素B
+T49	Test 1038 1042	毒物筛查
+T50	Test 1043 1052	腰椎穿刺脑脊液检查
+T51	Disease 1084 1090	周围神经病变
+T52	Disease 1134 1140	周围神经病变
+T53	Disease 1154 1160	周围神经病变
+T54	Test 1182 1188	神经传导测定
+T55	Disease 1196 1199	DPN
+T56	Test 1211 1222	感觉和运动神经传导测定
+T57	Test 1239 1247	感觉神经传导测定
+T58	Test 1381 1389	运动神经传导测定
+T59	Test 1360 1367;1368 1369	感觉神经传导测 定
+T60	Test 1543 1550	针极肌电图检查
+T61	Test 1552 1559	针极肌电图检查
+T62	Test 1601 1606	针极肌电图
+T63	Test 1670 1673;1674 1676	针电极 检测
+T64	Test 1686 1692	F波和H反射
+T68	Test 460 463	振动觉
+T69	Test 464 466	痛觉
+T70	Test 467 469;470 471	触压 觉
+T71	Test 472 475	温度觉
+T72	Test 479 481	痛觉
+T73	Disease 484 487	DPN
+T74	Symptom 488 492	感觉障碍
+T75	Anatomy 495 497;498 500	下肢 远端
+T76	Symptom 510 516	感觉共济失调
+T77	Anatomy 529 537	足部或手部小肌肉
+T78	Symptom 538 540	无力
+T79	Symptom 541 542;543 544	萎 缩
+T80	Test 567 570	腱反射
+T81	Test 578 579;580 583	跟 腱反射
+T82	Disease 589 592	DPN
+T84	Symptom 616 626;627 633	足部皮肤发凉、干燥以 及变薄、溃疡
+T85	Symptom 667 669	下肢
+T86	Test 1189 1195	神经传导测定
+T87	Anatomy 1227 1231	上、下肢
+T88	Anatomy 1267 1271	下肢远端
+T89	Disease 1288 1301	长度依赖性轴索性周围神经病
+T90	Disease 1308 1313;1314 1317	嵌压性周围 神经病
+T91	Disease 1514 1522	嵌压性周围神经病
+T92	Disease 1463 1467	单神经病
+T93	Disease 1468 1473	腰骶丛病变
+T94	Disease 1663 1669	周围神经病变
+T95	Anatomy 1702 1706	下肢神经
+T96	Test 1712 1720	皮肤交感反应测定
+T97	Test 1760 1766	定量感觉测定
+T98	Symptom 1773 1782;1783 1784	深感觉和痛温觉的异 常
+T99	Disease 1788 1791	DPN
+T100	Disease 1811 1818	小纤维神经病变
+T101	Disease 1823 1831	糖尿病自主神经病
+T102	Test 1848 1855	心率变异度测定
+T104	Disease 1871 1884	小纤维受累为主周围神经病变
+T105	Test 1892 1895;1896 1899	痛觉诱 发电位
+T106	Test 1927 1932	影像学检查
+T107	Test 1947 1952	影像学检查
+T109	Disease 1954 1957;1958 1963	脊柱与 椎管内病变
+T111	Disease 1964 1972	盆腔内占位性病变
+T113	Test 1977 1988	神经或皮肤活体组织检查
+T114	Test 1989 1997	皮肤活体组织检查
+T115	Disease 2000 2006	小纤维神经病
+T116	Disease 2011 2013;2014 2020	糖尿 病自主神经病
+T117	Test 2031 2039	神经活体组织检查
+T118	Disease 2055 2058	DPN
+T119	Test 2121 2126;2127 2152	测定卧位和 立位或Valsalva试验引起的血压变化和心率变化
+T120	Anatomy 2158 2160	心脏
+T121	Test 2167 2176	B超检测膀胱残余尿
+T122	Test 2177 2183	尿动力学测定
+T123	Symptom 2187 2191	排尿困难
+T124	Disease 2200 2208	糖尿病周围神经病
+T125	Disease 2217 2225	糖尿病周围神经病
+T126	Disease 2241 2244	糖尿病
+T127	Disease 2250 2256	周围神经病变
+T128	Disease 2305 2313	糖尿病周围神经病
+T103	Disease 2338 2349	多发性对称性周围神经病
+T129	Disease 2350 2355;2356 2363	局灶性非对 称性周围神经病
+T130	Disease 2370 2383	远端对称性多发性周围神经病
+T131	Disease 2385 2388	DPN
+T132	Symptom 2420 2421;2422 2429	肢 体远端感觉异常
+T133	Symptom 2438 2448	手套.袜套样感觉障碍
+T134	Symptom 2455 2460	腱反射减低
+T136	Anatomy 2463 2466	双下肢
+T137	Symptom 2472 2476;2477 2481	自主神经 受损表现
+T138	Symptom 2484 2487	肌无力
+T139	Symptom 2488 2491	肌萎缩
+T140	Disease 2500 2508	糖尿病自主神经病
+T141	Symptom 2510 2516	自主神经病变
+T142	Symptom 2538 2542	排汗异常
+T143	Symptom 2543 2548	胃肠道症状
+T144	Symptom 2549 2551;2552 2555	性功 能减退
+T145	Symptom 2556 2560	排尿困难
+T146	Symptom 2561 2567	直立性低血压
+T147	Symptom 2569 2576	静息时心动过速
+T148	Disease 2589 2592	心绞痛
+T149	Disease 2593 2597	心肌梗死
+T150	Symptom 2600 2605	心前区疼痛
+T151	Level 2612 2614	严重
+T152	Disease 2614 2618	心律失常
+T153	Disease 2619 2621	猝死
+T154	Disease 2630 2644	糖尿病单神经病或多发单神经病
+T155	Anatomy 2646 2650	正中神经
+T156	Anatomy 2651 2653;2654 2655	尺神 经
+T157	Anatomy 2656 2660	腓总神经
+T158	Symptom 2692 2701	感觉和运动功能障碍
+T159	Anatomy 2716 2718	腕管
+T160	Anatomy 2719 2721	肘管
+T161	Anatomy 2722 2725	腓骨小
+T162	Anatomy 2734 2735;2736 2738	脑 神经
+T163	Anatomy 2744 2748	动眼神经
+T164	Anatomy 2749 2753	外展神经
+T165	Anatomy 2754 2757	面神经
+T166	Disease 2771 2781	糖尿病神经根神经丛病
+T167	Disease 2784 2793;2794 2798	糖尿病性肌萎缩或痛 性肌萎缩
+T168	Disease 2803 2806	糖尿病
+T169	Anatomy 2813 2820;2821 2825	腰骶神经根神经 丛分布区
+T170	Symptom 2838 2847;2848 2854	受累神经支配区的疼 痛和感觉障碍
+T171	Symptom 2859 2866	肌肉无力和萎缩
+T172	Anatomy 2868 2872	下肢近端
+T173	Disease 2918 2928	糖尿病相关周围神经病
+T174	Disease 2929 2938	糖尿病前周围神经病
+T175	Disease 2967 2970	DPN
+T176	Disease 2975 2978	糖尿病
+T179	Drug 2999 3002	胰岛素
+T180	Symptom 3026 3036	急性远端对称性神经痛
+T181	Duration 3052 3056	1—2年
+T182	Disease 3072 3075	DPN
+T177	Level 3112 3115	明显的
+T178	Symptom 3115 3119	肢体无力
+T183	Test 3120 3122;3123 3126	神经 电生理
+T184	Disease 3140 3143	DPN
+T185	Disease 3164 3176;3177 3184	慢性炎性脱髓鞘性多发性神 经根周围神经病
+T186	Disease 3185 3189	营养缺乏
+T187	Disease 3190 3192	中毒
+T188	Disease 3193 3200	异常球蛋白血症
+T189	Disease 3201 3204;3205 3207	肝功能 不全
+T190	Disease 3208 3213	肾功能不全
+T191	Disease 3214 3221	甲状腺功能减退
+T192	Disease 3222 3226	恶性肿瘤
+T193	Disease 3227 3232	结缔组织病
+T194	Disease 3234 3239	感染性疾病
+T195	Disease 3241 3244	遗传病
+T196	Disease 3246 3249	DPN
+T197	Disease 3288 3296	糖尿病周嗣神经病
+T198	Test 3312 3314	血糖
+T199	Test 3315 3321	糖化血红蛋白
+T200	Test 3326 3328	血糖
+T201	Test 3335 3341	糖化血红蛋白
+T202	Test_Value 3344 3348	7%以内
+T203	Disease 3393 3396	DPN
+T204	Drug 3417 3422	仅一硫辛酸
+T205	Drug 3436 3444	醛糖还原酶抑制剂
+T206	Disease 3470 3473	DPN
+T207	Drug 3525 3531	B族维生素类
+T208	Drug 3533 3536	硫胺素
+T209	Drug 3537 3540	甲钴胺
+T210	Symptom 3570 3573	神经痛
+T211	Disease 3576 3579	DPN
+T212	Symptom 3607 3610	神经痛
+T213	Drug 3621 3625	阿米替林
+T214	Drug 3626 3627;3628 3631	加 巴喷丁
+T215	Drug 3632 3636	普瑞巴林
+T216	Drug 3637 3641	度洛西汀
+T217	Drug 3642 3646	文拉法辛
+T218	Symptom 3718 3727	胃肠道排空功能减退
+T221	Symptom 3754 3757	低血糖
+T222	Level 3765 3766;3767 3768	明 显
+T223	Symptom 3768 3774	直立性低血压
+T224	Anatomy 3787 3789	下肢
+T219	Disease 3847 3849;3850 3851	高血 压
+T220	Disease 3852 3856	高脂血症
+T225	Symptom 3884 3890	空腹血糖受损
+T226	Symptom 3892 3897	糖耐量异常
+T227	Symptom 2940 2945	糖耐量异常
+T228	Symptom 2946 2952	空腹血糖受损
+T234	Disease 100 103	DPN
+T235	Test 3866 3868	体重
+T236	Test 837 839	血糖
+T237	Test 916 918	血糖
+T238	Test 3014 3016	血糖
+T239	Test 27 30	肌电图
+R1	Symptom_Disease Arg1:T3 Arg2:T234
+R2	Symptom_Disease Arg1:T3 Arg2:T2
+R3	Symptom_Disease Arg1:T4 Arg2:T2
+R4	Symptom_Disease Arg1:T4 Arg2:T234
+R5	Symptom_Disease Arg1:T9 Arg2:T10
+R6	Symptom_Disease Arg1:T8 Arg2:T10
+R7	Symptom_Disease Arg1:T7 Arg2:T10
+R8	Symptom_Disease Arg1:T11 Arg2:T10
+R9	Symptom_Disease Arg1:T12 Arg2:T10
+R10	Symptom_Disease Arg1:T13 Arg2:T10
+R11	Symptom_Disease Arg1:T14 Arg2:T10
+R12	Symptom_Disease Arg1:T15 Arg2:T10
+R13	Symptom_Disease Arg1:T16 Arg2:T10
+R14	Symptom_Disease Arg1:T17 Arg2:T10
+R15	Symptom_Disease Arg1:T18 Arg2:T10
+R16	Symptom_Disease Arg1:T19 Arg2:T10
+R17	Symptom_Disease Arg1:T74 Arg2:T73
+R18	Anatomy_Disease Arg1:T75 Arg2:T73
+R19	Symptom_Disease Arg1:T76 Arg2:T73
+R20	Test_Disease Arg1:T68 Arg2:T73
+R21	Test_Disease Arg1:T69 Arg2:T73
+R22	Test_Disease Arg1:T70 Arg2:T73
+R23	Test_Disease Arg1:T71 Arg2:T73
+R24	Test_Disease Arg1:T72 Arg2:T73
+R25	Test_Disease Arg1:T81 Arg2:T82
+R26	Test_Disease Arg1:T80 Arg2:T82
+R27	Test_Disease Arg1:T22 Arg2:T82
+R28	Symptom_Disease Arg1:T30 Arg2:T37
+R29	Symptom_Disease Arg1:T31 Arg2:T37
+R30	Symptom_Disease Arg1:T32 Arg2:T37
+R31	Symptom_Disease Arg1:T33 Arg2:T37
+R32	Symptom_Disease Arg1:T34 Arg2:T37
+R33	Test_Disease Arg1:T236 Arg2:T40
+R34	Test_Disease Arg1:T237 Arg2:T39
+R35	Test_Disease Arg1:T38 Arg2:T39
+R36	Test_Disease Arg1:T36 Arg2:T39
+R37	Test_Disease Arg1:T86 Arg2:T55
+R38	Test_Disease Arg1:T56 Arg2:T55
+R39	Anatomy_Disease Arg1:T87 Arg2:T55
+R40	Test_Disease Arg1:T54 Arg2:T55
+R41	Anatomy_Disease Arg1:T88 Arg2:T89
+R42	Test_Disease Arg1:T57 Arg2:T89
+R43	Test_Disease Arg1:T58 Arg2:T92
+R44	Test_Disease Arg1:T58 Arg2:T93
+R45	Test_Disease Arg1:T58 Arg2:T91
+R46	Test_Disease Arg1:T62 Arg2:T94
+R47	Symptom_Disease Arg1:T98 Arg2:T99
+R48	Test_Disease Arg1:T97 Arg2:T99
+R49	Test_Disease Arg1:T102 Arg2:T104
+R50	Test_Disease Arg1:T107 Arg2:T109
+R51	Test_Disease Arg1:T107 Arg2:T111
+R52	Test_Disease Arg1:T114 Arg2:T115
+R53	Test_Disease Arg1:T114 Arg2:T116
+R54	Test_Disease Arg1:T117 Arg2:T118
+R55	Symptom_Disease Arg1:T132 Arg2:T131
+R56	Symptom_Disease Arg1:T133 Arg2:T131
+R57	Symptom_Disease Arg1:T134 Arg2:T131
+R58	Anatomy_Disease Arg1:T136 Arg2:T131
+R59	Symptom_Disease Arg1:T138 Arg2:T130
+R60	Symptom_Disease Arg1:T138 Arg2:T131
+R61	Symptom_Disease Arg1:T139 Arg2:T131
+R62	Symptom_Disease Arg1:T139 Arg2:T130
+R63	Symptom_Disease Arg1:T137 Arg2:T130
+R64	Symptom_Disease Arg1:T137 Arg2:T131
+R65	Symptom_Disease Arg1:T132 Arg2:T130
+R67	Symptom_Disease Arg1:T133 Arg2:T130
+R68	Symptom_Disease Arg1:T134 Arg2:T130
+R69	Symptom_Disease Arg1:T141 Arg2:T140
+R70	Symptom_Disease Arg1:T142 Arg2:T140
+R71	Symptom_Disease Arg1:T143 Arg2:T140
+R72	Symptom_Disease Arg1:T144 Arg2:T140
+R73	Symptom_Disease Arg1:T145 Arg2:T140
+R74	Symptom_Disease Arg1:T146 Arg2:T140
+R75	Symptom_Disease Arg1:T147 Arg2:T140
+R76	Symptom_Disease Arg1:T150 Arg2:T148
+R77	Symptom_Disease Arg1:T150 Arg2:T149
+R78	Symptom_Disease Arg1:T150 Arg2:T152
+R79	Symptom_Disease Arg1:T150 Arg2:T153
+R80	Anatomy_Disease Arg1:T136 Arg2:T130
+R81	Anatomy_Disease Arg1:T155 Arg2:T154
+R82	Anatomy_Disease Arg1:T156 Arg2:T154
+R83	Anatomy_Disease Arg1:T157 Arg2:T154
+R84	Symptom_Disease Arg1:T158 Arg2:T154
+R85	Anatomy_Disease Arg1:T159 Arg2:T154
+R86	Anatomy_Disease Arg1:T160 Arg2:T154
+R87	Anatomy_Disease Arg1:T161 Arg2:T154
+R88	Anatomy_Disease Arg1:T162 Arg2:T154
+R89	Anatomy_Disease Arg1:T163 Arg2:T154
+R90	Anatomy_Disease Arg1:T164 Arg2:T154
+R91	Anatomy_Disease Arg1:T165 Arg2:T154
+R92	Anatomy_Disease Arg1:T169 Arg2:T166
+R93	Anatomy_Disease Arg1:T169 Arg2:T167
+R94	Anatomy_Disease Arg1:T169 Arg2:T168
+R95	Symptom_Disease Arg1:T170 Arg2:T167
+R96	Symptom_Disease Arg1:T171 Arg2:T167
+R97	Anatomy_Disease Arg1:T172 Arg2:T167
+R98	Symptom_Disease Arg1:T170 Arg2:T168
+R99	Symptom_Disease Arg1:T171 Arg2:T168
+R100	Anatomy_Disease Arg1:T172 Arg2:T168
+R101	Symptom_Disease Arg1:T170 Arg2:T166
+R102	Symptom_Disease Arg1:T171 Arg2:T166
+R103	Anatomy_Disease Arg1:T172 Arg2:T166
+R104	Symptom_Disease Arg1:T227 Arg2:T174
+R105	Symptom_Disease Arg1:T228 Arg2:T174
+R106	Symptom_Disease Arg1:T227 Arg2:T173
+R107	Symptom_Disease Arg1:T228 Arg2:T173
+R108	Symptom_Disease Arg1:T227 Arg2:T175
+R109	Symptom_Disease Arg1:T228 Arg2:T175
+R110	Drug_Disease Arg1:T179 Arg2:T176
+R111	Test_Disease Arg1:T238 Arg2:T176
+R112	Symptom_Disease Arg1:T180 Arg2:T176
+R113	Symptom_Disease Arg1:T178 Arg2:T182
+R114	Test_Disease Arg1:T183 Arg2:T182
+R115	Symptom_Disease Arg1:T178 Arg2:T184
+R116	Test_Disease Arg1:T183 Arg2:T184
+R117	Symptom_Disease Arg1:T178 Arg2:T185
+R118	Test_Disease Arg1:T183 Arg2:T185
+R119	Symptom_Disease Arg1:T178 Arg2:T186
+R120	Test_Disease Arg1:T183 Arg2:T186
+R121	Symptom_Disease Arg1:T178 Arg2:T187
+R122	Test_Disease Arg1:T183 Arg2:T187
+R123	Symptom_Disease Arg1:T178 Arg2:T188
+R124	Test_Disease Arg1:T183 Arg2:T188
+R125	Symptom_Disease Arg1:T178 Arg2:T189
+R126	Test_Disease Arg1:T183 Arg2:T189
+R127	Test_Disease Arg1:T183 Arg2:T190
+R128	Test_Disease Arg1:T183 Arg2:T191
+R129	Test_Disease Arg1:T183 Arg2:T192
+R131	Test_Disease Arg1:T183 Arg2:T193
+R132	Test_Disease Arg1:T183 Arg2:T194
+R133	Test_Disease Arg1:T183 Arg2:T195
+R134	Test_Disease Arg1:T183 Arg2:T196
+R135	Symptom_Disease Arg1:T178 Arg2:T190
+R136	Drug_Disease Arg1:T204 Arg2:T203
+R137	Drug_Disease Arg1:T205 Arg2:T203
+R138	Symptom_Disease Arg1:T210 Arg2:T211
+R139	Symptom_Disease Arg1:T212 Arg2:T211
+R140	Drug_Disease Arg1:T213 Arg2:T211
+R141	Drug_Disease Arg1:T214 Arg2:T211
+R142	Drug_Disease Arg1:T215 Arg2:T211
+R143	Drug_Disease Arg1:T216 Arg2:T211
+R144	Drug_Disease Arg1:T217 Arg2:T211
+R145	Test_Disease Arg1:T235 Arg2:T219
+R146	Test_Disease Arg1:T235 Arg2:T220
+R147	Symptom_Disease Arg1:T225 Arg2:T219
+R148	Symptom_Disease Arg1:T225 Arg2:T220
+R149	Symptom_Disease Arg1:T226 Arg2:T219
+R150	Symptom_Disease Arg1:T226 Arg2:T220
+R151	Test_Disease Arg1:T20 Arg2:T73
+R152	Test_Disease Arg1:T59 Arg2:T90
+R153	Test_Disease Arg1:T63 Arg2:T94
+R154	Test_Disease Arg1:T105 Arg2:T104
