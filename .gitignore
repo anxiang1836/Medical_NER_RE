@@ -6,6 +6,8 @@ noetbook/.ipynb_checkpoints/
 __pycache__/
 .git/
 
+data/round2/*.pkl
+
 saved_model_files/*.h5
 saved_model_files/*.model
 saved_model_files/*.txt

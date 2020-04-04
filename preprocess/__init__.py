@@ -1,4 +1,6 @@
-# Label的常参List
+__author__ = "MaxMa"
+__email__ = "xingyangma@126.com"
+
 from .Data import CATEGORY, RELATION
 from .Data import DataSet, DataProcessor
 
