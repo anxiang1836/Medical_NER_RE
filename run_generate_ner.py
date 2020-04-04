@@ -22,7 +22,7 @@ def generate_ner(args) -> None:
 def main():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--file_root", type=str, default="./data/round1/train/", required=True,
+    parser.add_argument("--file_root", type=str, default="./data/round2/", required=True,
                         help="root path of data")
 
     args = parser.parse_args()

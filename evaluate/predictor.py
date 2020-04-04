@@ -9,9 +9,9 @@ BATCH_SIZE = 64
 MAX_LEN = 70
 PAD_LEN = 10
 
-word2idx = pickle.load(open('../saved_model_files/word2idx.pkl', 'rb'))
-emb_matrix = pickle.load(open('../saved_model_files/emb_matrix.pkl', 'rb'))
-model = keras.models.load_model("../saved_model_files/bi_lstm_crf_4_3_2_39.h5",
+word2idx = pickle.load(open('./saved_model_files/word2idx.pkl', 'rb'))
+emb_matrix = pickle.load(open('./saved_model_files/emb_matrix.pkl', 'rb'))
+model = keras.models.load_model("./saved_model_files/bi_lstm_crf_4_3_2_39.h5",
                                 custom_objects={"CRF": keras_contrib.layers.CRF,
                                                 "crf_loss": keras_contrib.losses.crf_loss,
                                                 "crf_viterbi_accuracy": keras_contrib.metrics.crf_viterbi_accuracy})
