@@ -1,3 +1,9 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   w2c_trainer.py
+"""
+
 from utils import scan_files, load_file
 
 from gensim.models.word2vec import LineSentence

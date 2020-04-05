@@ -1,3 +1,9 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   evaluator.py
+"""
+
 from itertools import groupby
 from preprocess.Data import DataSet, DataProcessor, category2label
 from preprocess.Entity import Document, NamedEntity, SeqSet4ner, NamedEntitySet

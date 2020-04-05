@@ -1,7 +1,7 @@
 """
 @Author      :   MaxMa
 @Email       :   xingyangma@126.com
-@File Name   :   run_generate.py
+@File Name   :   run_generate_ner.py
 """
 
 from evaluate import prepare, predict, decode_result

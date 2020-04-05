@@ -1,3 +1,9 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   run_split_build_w2idx_emb.py
+"""
+
 from preprocess import DataSet
 from utils import scan_files, logger_init
 

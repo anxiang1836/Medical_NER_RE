@@ -1,3 +1,9 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   Entity.py
+"""
+
 from typing import List, Dict
 import numpy as np
 

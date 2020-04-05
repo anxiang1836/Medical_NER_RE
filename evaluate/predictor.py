@@ -1,3 +1,9 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   predictor.py
+"""
+
 import keras
 import keras_contrib
 import pickle

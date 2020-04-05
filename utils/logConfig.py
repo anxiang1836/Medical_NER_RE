@@ -1,3 +1,10 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   logConfig.py
+"""
+
+
 import logging
 import time
 

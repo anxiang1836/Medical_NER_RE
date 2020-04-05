@@ -1,3 +1,9 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   run_train_bilstm.py
+"""
+
 from model import BiLstmCrfTrainer
 from evaluate import merge_preds4ner, f1_score4ner
 from utils import logger_init

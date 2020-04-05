@@ -1,3 +1,9 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   bilstm_trainer.py
+"""
+
 from .base import NNTrainer, Attention
 from keras.optimizers import Adam
 from keras import Input

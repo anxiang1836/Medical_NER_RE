@@ -1,3 +1,9 @@
+"""
+@Author      :   MaxMa
+@Email       :   xingyangma@126.com
+@File Name   :   run_train_w2v.py
+"""
+
 import argparse
 from model import Char2VecTrainer
 from utils import logger_init
